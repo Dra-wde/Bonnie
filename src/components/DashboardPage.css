@@ -1,0 +1,15 @@
+@keyframes vanishOut {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0;
+      visibility: hidden;
+      transform: translateY(-20px); /* Optional: Add a slight upward translation */
+    }
+  }
+  
+  .vanish-out {
+    animation: vanishOut 1s forwards;
+  }
+  

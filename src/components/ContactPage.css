@@ -1,0 +1,26 @@
+/* ContactPage.css */
+
+/* ContactPage styles */
+.contact-page {
+    background-color: #fff;
+    padding: 20px;
+  }
+  
+  .contact-page header {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .contact-page header h1 {
+    font-weight: bold;
+  }
+  
+  .contact-page main {
+    text-align: center;
+  }
+  
+  .contact-page footer {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
